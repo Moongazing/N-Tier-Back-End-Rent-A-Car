@@ -8,6 +8,7 @@ N-Tier Architecture,
 Fluent Validation,
 Transaction,
 Autofac,
-Operation Claims
+Operation Claims,
+InMemory Cache
 
 You can use core layer for all projects.
