@@ -1,0 +1,13 @@
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Entities\bin\Debug\netcoreapp3.1\TAO_Entities.deps.json
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Entities\bin\Debug\netcoreapp3.1\TAO_Entities.dll
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Entities\bin\Debug\netcoreapp3.1\TAO_Entities.pdb
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Entities\obj\Debug\netcoreapp3.1\TAO_Entities.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Entities\obj\Debug\netcoreapp3.1\TAO_Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Entities\obj\Debug\netcoreapp3.1\TAO_Entities.AssemblyInfoInputs.cache
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Entities\obj\Debug\netcoreapp3.1\TAO_Entities.AssemblyInfo.cs
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Entities\obj\Debug\netcoreapp3.1\TAO_Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Entities\obj\Debug\netcoreapp3.1\TAO_Entities.dll
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Entities\obj\Debug\netcoreapp3.1\TAO_Entities.pdb
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Entities\bin\Debug\netcoreapp3.1\TAO_Core.dll
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Entities\bin\Debug\netcoreapp3.1\TAO_Core.pdb
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Entities\obj\Debug\netcoreapp3.1\TAO_Entities.csproj.CopyComplete

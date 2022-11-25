@@ -1,0 +1,10 @@
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Core\bin\Debug\netcoreapp3.1\TAO_Core.deps.json
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Core\bin\Debug\netcoreapp3.1\TAO_Core.dll
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Core\bin\Debug\netcoreapp3.1\TAO_Core.pdb
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Core\obj\Debug\netcoreapp3.1\TAO_Core.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Core\obj\Debug\netcoreapp3.1\TAO_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Core\obj\Debug\netcoreapp3.1\TAO_Core.AssemblyInfoInputs.cache
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Core\obj\Debug\netcoreapp3.1\TAO_Core.AssemblyInfo.cs
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Core\obj\Debug\netcoreapp3.1\TAO_Core.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Core\obj\Debug\netcoreapp3.1\TAO_Core.dll
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_Core\obj\Debug\netcoreapp3.1\TAO_Core.pdb

@@ -1,0 +1,15 @@
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\obj\Debug\netcoreapp3.1\TAO_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\obj\Debug\netcoreapp3.1\TAO_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\obj\Debug\netcoreapp3.1\TAO_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\obj\Debug\netcoreapp3.1\TAO_DataAccess.AssemblyInfo.cs
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\obj\Debug\netcoreapp3.1\TAO_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\bin\Debug\netcoreapp3.1\TAO_DataAccess.deps.json
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\bin\Debug\netcoreapp3.1\TAO_DataAccess.dll
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\bin\Debug\netcoreapp3.1\TAO_DataAccess.pdb
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\bin\Debug\netcoreapp3.1\TAO_Entities.dll
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\bin\Debug\netcoreapp3.1\TAO_Entities.pdb
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\obj\Debug\netcoreapp3.1\TAO_DataAccess.csproj.CopyComplete
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\obj\Debug\netcoreapp3.1\TAO_DataAccess.dll
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\obj\Debug\netcoreapp3.1\TAO_DataAccess.pdb
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\bin\Debug\netcoreapp3.1\TAO_Core.dll
+C:\Users\Yön\Desktop\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TunahanAliOzturk_RentACar\TAO_DataAccess\bin\Debug\netcoreapp3.1\TAO_Core.pdb
